@@ -9,11 +9,9 @@ Here is an example of 25 companies supply-network.
 <img src="25Node_network.jpg" title="plot of chunk unnamed-chunk-12" alt="plot of chunk unnamed-chunk-12" style="display: block; margin: auto;" />
 
 The supply-chain networks are created from supply relation data obtained from data source called FactSet. We created tier-wise supply network graphs for focal companies. See [Creating Supply-Network Graphs](https://github.com/ViditAg/SupplyNetwork_Analysis/blob/master/Creating_SupplyNetworkGraphs.pdf) for detailed steps. See 
-[4 Tier supply-network]
-(https://github.com/ViditAg/SupplyNetwork_Analysis/blob/master/SupplyNetwork_4Tiers.pdf) and 
+[4 Tier supply-network](https://github.com/ViditAg/SupplyNetwork_Analysis/blob/master/SupplyNetwork_4Tiers.pdf) and 
 
-[Full supply-network]
-(https://github.com/ViditAg/SupplyNetwork_Analysis/blob/master/SupplyNetwork_AllTiers.pdf) for example plots
+[Full supply-network](https://github.com/ViditAg/SupplyNetwork_Analysis/blob/master/SupplyNetwork_AllTiers.pdf) for example plots.
 
 The two main ideas that we have work on so far are listed below. Both of them are written as manuscripts are under review with the journals.
 
